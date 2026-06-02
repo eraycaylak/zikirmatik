@@ -1,0 +1,416 @@
+[
+  {
+    "id": "subhanallah",
+    "name": "Subhanallah",
+    "arabicName": "سُبْحَانَ اللَّهِ",
+    "targetCount": 33,
+    "description": "Allah'ı tüm eksikliklerden tenzih ederim",
+    "benefit": "Namaz sonrası 33 kere söylenmesi sünnettir. Günahları siler, kalbi nurlandırır.",
+    "category": "tesbih"
+  },
+  {
+    "id": "elhamdulillah",
+    "name": "Elhamdülillah",
+    "arabicName": "الْحَمْدُ لِلَّهِ",
+    "targetCount": 33,
+    "description": "Hamd Allah'a mahsustur",
+    "benefit": "Namaz sonrası 33 kere söylenmesi sünnettir. Şükür ifadesidir, nimetlerin artmasına vesile olur.",
+    "category": "tesbih"
+  },
+  {
+    "id": "allahuekber",
+    "name": "Allahu Ekber",
+    "arabicName": "اللَّهُ أَكْبَرُ",
+    "targetCount": 33,
+    "description": "Allah en büyüktür",
+    "benefit": "Namaz sonrası 33 kere söylenmesi sünnettir. Kalbi güçlendirir, korkuları yok eder.",
+    "category": "tesbih"
+  },
+  {
+    "id": "lailaheillallah",
+    "name": "La ilahe illallah",
+    "arabicName": "لَا إِلَهَ إِلَّا اللَّهُ",
+    "targetCount": 100,
+    "description": "Allah'tan başka ilah yoktur",
+    "benefit": "Tevhid kelimesidir. Günde 100 kere söyleyen 10 köle azat etmiş gibi sevap alır. (Buhari)",
+    "category": "tesbih"
+  },
+  {
+    "id": "subhanallahi_ve_bihamdihi",
+    "name": "Subhanallahi ve bihamdihi",
+    "arabicName": "سُبْحَانَ اللَّهِ وَبِحَمْدِهِ",
+    "targetCount": 100,
+    "description": "Allah'ı hamd ile tenzih ederim",
+    "benefit": "Günde 100 kere söyleyenin günahları deniz köpüğü kadar olsa bile silinir. (Buhari)",
+    "category": "tesbih"
+  },
+  {
+    "id": "subhanallahil_azim",
+    "name": "Subhanallahil azim ve bihamdihi",
+    "arabicName": "سُبْحَانَ اللَّهِ الْعَظِيمِ وَبِحَمْدِهِ",
+    "targetCount": 100,
+    "description": "Yüce Allah'ı hamd ile tenzih ederim",
+    "benefit": "Dile hafif, mizana ağır, Rahman'a sevimli iki kelime. (Buhari, Müslim)",
+    "category": "tesbih"
+  },
+  {
+    "id": "lailaha_illallah_vahdehu",
+    "name": "La ilahe illallahu vahdehu",
+    "arabicName": "لَا إِلَهَ إِلَّا اللَّهُ وَحْدَهُ لَا شَرِيكَ لَهُ",
+    "targetCount": 100,
+    "description": "Allah'tan başka ilah yoktur, O tektir, ortağı yoktur",
+    "benefit": "Her namaz sonrası 10 kere okuyan, 4 köle azat etmiş gibi sevap alır. (Müslim)",
+    "category": "tesbih"
+  },
+  {
+    "id": "hasbunallahu",
+    "name": "Hasbunallahu ve ni'mel vekil",
+    "arabicName": "حَسْبُنَا اللَّهُ وَنِعْمَ الْوَكِيلُ",
+    "targetCount": 70,
+    "description": "Allah bize yeter, O ne güzel vekildir",
+    "benefit": "Sıkıntı ve zorluk anlarında okunur. Kalbe huzur verir, Allah'a tevekkülü artırır.",
+    "category": "tesbih"
+  },
+  {
+    "id": "la_havle",
+    "name": "La havle vela kuvvete illa billah",
+    "arabicName": "لَا حَوْلَ وَلَا قُوَّةَ إِلَّا بِاللَّهِ",
+    "targetCount": 100,
+    "description": "Güç ve kuvvet ancak Allah'tandır",
+    "benefit": "Cennet hazinelerinden bir hazinedir. (Buhari) Sıkıntıların giderilmesine vesile olur.",
+    "category": "tesbih"
+  },
+  {
+    "id": "ya_hayyu_ya_kayyum",
+    "name": "Ya Hayyu Ya Kayyum",
+    "arabicName": "يَا حَيُّ يَا قَيُّومُ بِرَحْمَتِكَ أَسْتَغِيثُ",
+    "targetCount": 40,
+    "description": "Ey diri ve kaim olan! Rahmetinle yardım dilerim",
+    "benefit": "Hz. Peygamber sıkıntı anında bu duayı çok okurdu. Bütün işlerin düzelmesine vesile olur.",
+    "category": "tesbih"
+  },
+  {
+    "id": "rabbena_atina",
+    "name": "Rabbena atina fiddünya",
+    "arabicName": "رَبَّنَا آتِنَا فِي الدُّنْيَا حَسَنَةً وَفِي الْآخِرَةِ حَسَنَةً وَقِنَا عَذَابَ النَّارِ",
+    "targetCount": 7,
+    "description": "Rabbimiz bize dünya ve ahirette iyilik ver",
+    "benefit": "En çok okunan dualardan biridir. Dünya ve ahiretin hayrını ister. (Bakara, 201)",
+    "category": "dua"
+  },
+  {
+    "id": "allahumme_inni",
+    "name": "Allahümme inni euzü bike",
+    "arabicName": "اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ",
+    "targetCount": 7,
+    "description": "Allah'ım üzüntü ve kederden sana sığınırım",
+    "benefit": "Stres, kaygı ve üzüntüden korur. Kalbi rahatlatır, huzur verir.",
+    "category": "dua"
+  },
+  {
+    "id": "rabbi_zidni",
+    "name": "Rabbi zidni ilma",
+    "arabicName": "رَبِّ زِدْنِي عِلْمًا",
+    "targetCount": 33,
+    "description": "Rabbim ilmimi artır",
+    "benefit": "İlim talep eden öğrenciler için özellikle tavsiye edilir. (Taha, 114)",
+    "category": "dua"
+  },
+  {
+    "id": "rabbena_la_tuzigh",
+    "name": "Rabbena la tuzığ kulubena",
+    "arabicName": "رَبَّنَا لَا تُزِغْ قُلُوبَنَا بَعْدَ إِذْ هَدَيْتَنَا",
+    "targetCount": 7,
+    "description": "Rabbimiz hidayetten sonra kalplerimizi saptırma",
+    "benefit": "Hidayet üzere kalmak için okunan önemli bir duadır. (Al-i İmran, 8)",
+    "category": "dua"
+  },
+  {
+    "id": "rabbena_hab_lena",
+    "name": "Rabbena hab lena",
+    "arabicName": "رَبَّنَا هَبْ لَنَا مِنْ أَزْوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعْيُنٍ",
+    "targetCount": 7,
+    "description": "Rabbimiz eş ve çocuklarımızı gözümüzün nuru kıl",
+    "benefit": "Aile huzuru ve saliha evlat için okunan bir duadır. (Furkan, 74)",
+    "category": "dua"
+  },
+  {
+    "id": "allahumme_inna",
+    "name": "Allahümme inna nesteinuke",
+    "arabicName": "اللَّهُمَّ إِنَّا نَسْتَعِينُكَ وَنَسْتَغْفِرُكَ",
+    "targetCount": 7,
+    "description": "Allah'ım senden yardım ve bağışlanma dileriz",
+    "benefit": "Kunut duasıdır, vitir namazında okunur. Günahlardan bağışlanma ve Allah'ın yardımını talep eder.",
+    "category": "dua"
+  },
+  {
+    "id": "allahumme_salli_barik",
+    "name": "Allahümme barik",
+    "arabicName": "اللَّهُمَّ بَارِكْ لِي فِيمَا أَعْطَيْتَ",
+    "targetCount": 7,
+    "description": "Allah'ım bana verdiğini bereketlendir",
+    "benefit": "Rızık ve bereket duasıdır. Verilen nimetlerin bereketlenmesini sağlar.",
+    "category": "dua"
+  },
+  {
+    "id": "rabbi_inni_lima",
+    "name": "Rabbi inni lima enzelte",
+    "arabicName": "رَبِّ إِنِّي لِمَا أَنْزَلْتَ إِلَيَّ مِنْ خَيْرٍ فَقِيرٌ",
+    "targetCount": 33,
+    "description": "Rabbim hayır olarak bana indireceğin her şeye muhtacım",
+    "benefit": "Hz. Musa'nın duasıdır. Rızık kapılarının açılmasına vesile olur. (Kasas, 24)",
+    "category": "dua"
+  },
+  {
+    "id": "rabbighfir",
+    "name": "Rabbighfir li ve li valideyye",
+    "arabicName": "رَبِّ اغْفِرْ لِي وَلِوَالِدَيَّ",
+    "targetCount": 33,
+    "description": "Rabbim beni ve anne-babamı bağışla",
+    "benefit": "Anne-baba için yapılan dua çok kıymetlidir. Onların rızasını kazandırır.",
+    "category": "dua"
+  },
+  {
+    "id": "allahumme_ajirni",
+    "name": "Allahümme ecirni minennâr",
+    "arabicName": "اللَّهُمَّ أَجِرْنِي مِنَ النَّارِ",
+    "targetCount": 7,
+    "description": "Allah'ım beni cehennem ateşinden koru",
+    "benefit": "Sabah-akşam 7'şer kere okunması tavsiye edilir. Cehennemden korunma vesilesidir.",
+    "category": "dua"
+  },
+  {
+    "id": "salavat_1",
+    "name": "Salavat-ı Şerife",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ",
+    "targetCount": 100,
+    "description": "Allah'ım Muhammed'e ve ailesine salat et",
+    "benefit": "Salavat getirene Allah 10 rahmet eder, 10 günahı silinir, 10 derecesi yükselir. (Müslim)",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_2",
+    "name": "Salavat-ı İbrahimiyye",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى آلِ مُحَمَّدٍ كَمَا صَلَّيْتَ عَلَى إِبْرَاهِيمَ",
+    "targetCount": 100,
+    "description": "Hz. İbrahim'e salat ettiğin gibi Hz. Muhammed'e de salat et",
+    "benefit": "Namazda okunan salavatın tam halidir. En faziletli salavat olarak kabul edilir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_3",
+    "name": "Salavat-ı Tuncinâ",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ صَلَاةً تُنْجِينَا بِهَا مِنْ جَمِيعِ الْأَهْوَالِ",
+    "targetCount": 100,
+    "description": "Bizi tüm korku ve belalardan kurtaracak bir salat ile salat et",
+    "benefit": "Tüm sıkıntı, bela ve musibetlerden korunma vesilesidir. Hacet salavati olarak bilinir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_4",
+    "name": "Salavat-ı Fatih",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ الْفَاتِحِ لِمَا أُغْلِقَ",
+    "targetCount": 100,
+    "description": "Kapalı olanı açan Muhammed'e salat et",
+    "benefit": "Kapanan kapıların açılması, rızık genişlemesi için okunur. 600 bin salavata denktir denilmiştir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_5",
+    "name": "Salavat-ı Nâriyye",
+    "arabicName": "اللَّهُمَّ صَلِّ صَلَاةً كَامِلَةً وَسَلِّمْ سَلَامًا تَامًّا عَلَى سَيِّدِنَا مُحَمَّدٍ",
+    "targetCount": 4444,
+    "description": "Eksiksiz salat ve tam bir selamla Efendimize salat et",
+    "benefit": "4444 kere okunması büyük dileklerin kabul olması için tavsiye edilir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_6",
+    "name": "Salavat-ı Münciye",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ وَعَلَى آلِهِ صَلَاةً تُنَجِّينَا",
+    "targetCount": 100,
+    "description": "Bizi kurtaracak bir salat ile Efendimize salat et",
+    "benefit": "Belaların def edilmesi ve sıkıntılardan kurtulma vesilesidir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_7",
+    "name": "Salavat-ı Tıbbiyye",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ طِبِّ الْقُلُوبِ وَدَوَائِهَا",
+    "targetCount": 100,
+    "description": "Kalplerin şifası olan Muhammed'e salat et",
+    "benefit": "Manevi ve fiziksel şifa için okunan salavatlardan biridir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_8",
+    "name": "Salavat-ı Kemaliye",
+    "arabicName": "اللَّهُمَّ صَلِّ صَلَاةً كَامِلَةً عَلَى مُحَمَّدٍ",
+    "targetCount": 100,
+    "description": "Eksiksiz bir salat ile Muhammed'e salat et",
+    "benefit": "Kemale ermek ve olgunlaşmak için tavsiye edilen salavatlardan biridir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_9",
+    "name": "Ya Rabbi salli ala Muhammed",
+    "arabicName": "يَا رَبِّ صَلِّ عَلَى مُحَمَّدٍ",
+    "targetCount": 100,
+    "description": "Ey Rabbim Muhammed'e salat et",
+    "benefit": "Kısa ama öz salavat. Yolda yürürken, beklerken kolayca okunabilir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_10",
+    "name": "Allahumme salli ala Muhammedin ve sellim",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَسَلِّمْ",
+    "targetCount": 100,
+    "description": "Allah'ım Muhammed'e salat ve selam et",
+    "benefit": "Basit ve kısa salavat. Günlük hayatta sürekli okunabilir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_11",
+    "name": "Salli ve sellim ala Nebiyyina",
+    "arabicName": "صَلِّ وَسَلِّمْ عَلَى نَبِيِّنَا مُحَمَّدٍ",
+    "targetCount": 100,
+    "description": "Peygamberimize salat ve selam et",
+    "benefit": "Cuma günleri çokça okunması tavsiye edilen salavatlardan biridir.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_12",
+    "name": "Salavat-ı Meşişiyye",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى مَنْ مِنْهُ انْشَقَّتِ الْأَسْرَارُ",
+    "targetCount": 33,
+    "description": "Sırların kendisinden açıldığı zata salat et",
+    "benefit": "Manevi sırların açılması ve kalp gözünün açılması için okunur.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_13",
+    "name": "Salavat-ı Bedriye",
+    "arabicName": "اللَّهُمَّ صَلِّ عَلَى سَيِّدِنَا مُحَمَّدٍ عَدَدَ أَهْلِ بَدْرٍ",
+    "targetCount": 313,
+    "description": "Bedir ehli sayısınca Efendimize salat et",
+    "benefit": "313 kere okunması tavsiye edilir. Bedir ashabı adedincedir, zafere vesile olur.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_14",
+    "name": "Salavat-ı Kübra",
+    "arabicName": "اللَّهُمَّ صَلِّ أَفْضَلَ صَلَوَاتِكَ عَلَى أَسْعَدِ مَخْلُوقَاتِكَ",
+    "targetCount": 100,
+    "description": "En üstün salatınla en mutlu yaratığına salat et",
+    "benefit": "Büyük salavat olarak bilinir. Manevi makamlara ulaşmak için okunur.",
+    "category": "salavat"
+  },
+  {
+    "id": "salavat_15",
+    "name": "Cuma Salavatı",
+    "arabicName": "اللَّهُمَّ صَلِّ وَسَلِّمْ وَبَارِكْ عَلَى سَيِّدِنَا مُحَمَّدٍ",
+    "targetCount": 100,
+    "description": "Efendimize salat, selam ve bereket et",
+    "benefit": "Cuma günü 100 salavat okuyanın 80 yıllık günahı bağışlanır. (Deylemi)",
+    "category": "salavat"
+  },
+  {
+    "id": "estagfirullah",
+    "name": "Estağfirullah",
+    "arabicName": "أَسْتَغْفِرُ اللَّهَ",
+    "targetCount": 100,
+    "description": "Allah'tan bağışlanma dilerim",
+    "benefit": "Günde 100 kere istiğfar edene rızık kapıları açılır, sıkıntıları giderilir. (Ebu Davud)",
+    "category": "istigfar"
+  },
+  {
+    "id": "estagfirullah_azim",
+    "name": "Estağfirullahel azim",
+    "arabicName": "أَسْتَغْفِرُ اللَّهَ الْعَظِيمَ",
+    "targetCount": 100,
+    "description": "Yüce Allah'tan bağışlanma dilerim",
+    "benefit": "İstiğfarın daha geniş halidir. Büyük günahlar için özellikle tavsiye edilir.",
+    "category": "istigfar"
+  },
+  {
+    "id": "estagfirullah_tubu",
+    "name": "Estağfirullah ve etubu ileyh",
+    "arabicName": "أَسْتَغْفِرُ اللَّهَ وَأَتُوبُ إِلَيْهِ",
+    "targetCount": 100,
+    "description": "Allah'tan bağışlanma diler ve O'na tövbe ederim",
+    "benefit": "Hz. Peygamber günde 70'ten fazla bu istiğfarı okurdu. (Buhari)",
+    "category": "istigfar"
+  },
+  {
+    "id": "seyyidel_istigfar",
+    "name": "Seyyidül İstiğfar",
+    "arabicName": "اللَّهُمَّ أَنْتَ رَبِّي لَا إِلَهَ إِلَّا أَنْتَ خَلَقْتَنِي وَأَنَا عَبْدُكَ",
+    "targetCount": 3,
+    "description": "İstiğfarların efendisi",
+    "benefit": "Sabah-akşam okuyan o gün/gece ölürse cennetliktir. (Buhari)",
+    "category": "istigfar"
+  },
+  {
+    "id": "rabbighfirli",
+    "name": "Rabbığfirli",
+    "arabicName": "رَبِّ اغْفِرْ لِي",
+    "targetCount": 100,
+    "description": "Rabbim beni bağışla",
+    "benefit": "İki secde arasında okunan kısa istiğfar duasıdır.",
+    "category": "istigfar"
+  },
+  {
+    "id": "allahummaghfirli",
+    "name": "Allahümmağfirli",
+    "arabicName": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ",
+    "targetCount": 33,
+    "description": "Allah'ım bütün günahlarımı bağışla",
+    "benefit": "Küçük ve büyük, gizli ve açık tüm günahlar için kapsamlı istiğfar.",
+    "category": "istigfar"
+  },
+  {
+    "id": "subhaneke_allahumme",
+    "name": "Subhaneke Allahümme ve bihamdik",
+    "arabicName": "سُبْحَانَكَ اللَّهُمَّ وَبِحَمْدِكَ أَشْهَدُ أَنْ لَا إِلَهَ إِلَّا أَنْتَ أَسْتَغْفِرُكَ وَأَتُوبُ إِلَيْكَ",
+    "targetCount": 3,
+    "description": "Seni tenzih ederim. Senden başka ilah olmadığına şehadet ederim",
+    "benefit": "Meclis duasıdır. Toplantı sonrası okunursa o mecliste yapılan hatalar bağışlanır.",
+    "category": "istigfar"
+  },
+  {
+    "id": "la_ilahe_illa_ente",
+    "name": "La ilahe illa ente subhaneke",
+    "arabicName": "لَا إِلَهَ إِلَّا أَنْتَ سُبْحَانَكَ إِنِّي كُنْتُ مِنَ الظَّالِمِينَ",
+    "targetCount": 40,
+    "description": "Senden başka ilah yoktur, seni tenzih ederim, ben zalimlerden oldum",
+    "benefit": "Hz. Yunus'un duasıdır. Sıkıntı ve darlıklardan kurtulma vesilesidir. (Enbiya, 87)",
+    "category": "istigfar"
+  },
+  {
+    "id": "bismillah",
+    "name": "Bismillahirrahmanirrahim",
+    "arabicName": "بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيمِ",
+    "targetCount": 100,
+    "description": "Rahman ve Rahim olan Allah'ın adıyla",
+    "benefit": "Her işin başında okunur. Bereket ve koruma vesilesidir.",
+    "category": "other"
+  },
+  {
+    "id": "amenerrasulu",
+    "name": "Amenerrasulü",
+    "arabicName": "آمَنَ الرَّسُولُ بِمَا أُنْزِلَ إِلَيْهِ",
+    "targetCount": 1,
+    "description": "Bakara Suresi'nin son iki ayeti",
+    "benefit": "Gece yatmadan okuyan için her şeye yeterlidir. (Buhari, Müslim)",
+    "category": "other"
+  },
+  {
+    "id": "ayetel_kursi",
+    "name": "Ayetel Kürsi",
+    "arabicName": "اللَّهُ لَا إِلَهَ إِلَّا هُوَ الْحَيُّ الْقَيُّومُ",
+    "targetCount": 1,
+    "description": "Kur'an'ın en büyük ayeti",
+    "benefit": "Her namazdan sonra okuyan cennete girer. Gece okuyana sabaha kadar koruma vardır.",
+    "category": "other"
+  }
+]

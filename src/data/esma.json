@@ -1,0 +1,794 @@
+[
+  {
+    "id": 1,
+    "name": "Allah",
+    "arabic": "اللَّهُ",
+    "meaning": "Her şeyin yaratıcısı, tek ilah",
+    "benefit": "Kalp huzuru ve Allah'a yakınlık kazandırır.",
+    "recommendedCount": 66
+  },
+  {
+    "id": 2,
+    "name": "Er-Rahman",
+    "arabic": "الرَّحْمَنُ",
+    "meaning": "Çok merhametli",
+    "benefit": "Dünya ve ahirette merhamete nail olunur.",
+    "recommendedCount": 100
+  },
+  {
+    "id": 3,
+    "name": "Er-Rahim",
+    "arabic": "الرَّحِيمُ",
+    "meaning": "Çok bağışlayan",
+    "benefit": "Günahların bağışlanmasına vesile olur.",
+    "recommendedCount": 100
+  },
+  {
+    "id": 4,
+    "name": "El-Melik",
+    "arabic": "الْمَلِكُ",
+    "meaning": "Mülkün sahibi",
+    "benefit": "Maddi ve manevi zenginlik verir.",
+    "recommendedCount": 90
+  },
+  {
+    "id": 5,
+    "name": "El-Kuddüs",
+    "arabic": "الْقُدُّوسُ",
+    "meaning": "Her türlü eksiklikten münezzeh",
+    "benefit": "Kalbi kötü düşüncelerden arındırır.",
+    "recommendedCount": 170
+  },
+  {
+    "id": 6,
+    "name": "Es-Selam",
+    "arabic": "السَّلَامُ",
+    "meaning": "Selamet veren",
+    "benefit": "Hastalıklardan şifa bulmaya vesile olur.",
+    "recommendedCount": 131
+  },
+  {
+    "id": 7,
+    "name": "El-Mü'min",
+    "arabic": "الْمُؤْمِنُ",
+    "meaning": "Güven veren",
+    "benefit": "Korkulardan emin kılar, güven verir.",
+    "recommendedCount": 136
+  },
+  {
+    "id": 8,
+    "name": "El-Müheymin",
+    "arabic": "الْمُهَيْمِنُ",
+    "meaning": "Koruyup gözeten",
+    "benefit": "Kötülüklerden korunmaya vesile olur.",
+    "recommendedCount": 145
+  },
+  {
+    "id": 9,
+    "name": "El-Aziz",
+    "arabic": "الْعَزِيزُ",
+    "meaning": "Üstün, yenilmez",
+    "benefit": "İzzet ve şeref kazandırır.",
+    "recommendedCount": 94
+  },
+  {
+    "id": 10,
+    "name": "El-Cebbar",
+    "arabic": "الْجَبَّارُ",
+    "meaning": "İstediğini zorla yaptıran",
+    "benefit": "Zulümden kurtulmaya vesile olur.",
+    "recommendedCount": 206
+  },
+  {
+    "id": 11,
+    "name": "El-Mütekebbir",
+    "arabic": "الْمُتَكَبِّرُ",
+    "meaning": "Büyüklükte eşsiz",
+    "benefit": "Kibir ve gururdan arınmaya vesile olur.",
+    "recommendedCount": 662
+  },
+  {
+    "id": 12,
+    "name": "El-Halık",
+    "arabic": "الْخَالِقُ",
+    "meaning": "Yaratan",
+    "benefit": "İşlerde başarı ve bereket verir.",
+    "recommendedCount": 731
+  },
+  {
+    "id": 13,
+    "name": "El-Bari",
+    "arabic": "الْبَارِئُ",
+    "meaning": "Kusursuz yaratan",
+    "benefit": "Sıkıntılardan kurtulmaya vesile olur.",
+    "recommendedCount": 213
+  },
+  {
+    "id": 14,
+    "name": "El-Musavvir",
+    "arabic": "الْمُصَوِّرُ",
+    "meaning": "Şekil veren",
+    "benefit": "Hayırlı evlat sahibi olmaya vesile olur.",
+    "recommendedCount": 336
+  },
+  {
+    "id": 15,
+    "name": "El-Gaffar",
+    "arabic": "الْغَفَّارُ",
+    "meaning": "Çok bağışlayan",
+    "benefit": "Günahların affına vesile olur.",
+    "recommendedCount": 1281
+  },
+  {
+    "id": 16,
+    "name": "El-Kahhar",
+    "arabic": "الْقَهَّارُ",
+    "meaning": "Kahreden",
+    "benefit": "Düşmanlara karşı yardım eder.",
+    "recommendedCount": 306
+  },
+  {
+    "id": 17,
+    "name": "El-Vehhab",
+    "arabic": "الْوَهَّابُ",
+    "meaning": "Karşılıksız veren",
+    "benefit": "Rızık bolluğu ve bereket sağlar.",
+    "recommendedCount": 14
+  },
+  {
+    "id": 18,
+    "name": "Er-Rezzak",
+    "arabic": "الرَّزَّاقُ",
+    "meaning": "Rızık veren",
+    "benefit": "Rızık kapılarının açılmasına vesile olur.",
+    "recommendedCount": 308
+  },
+  {
+    "id": 19,
+    "name": "El-Fettah",
+    "arabic": "الْفَتَّاحُ",
+    "meaning": "Açan, fetih veren",
+    "benefit": "Kapalı kapıların açılmasına vesile olur.",
+    "recommendedCount": 489
+  },
+  {
+    "id": 20,
+    "name": "El-Alim",
+    "arabic": "الْعَلِيمُ",
+    "meaning": "Her şeyi bilen",
+    "benefit": "İlim ve bilgi artışına vesile olur.",
+    "recommendedCount": 150
+  },
+  {
+    "id": 21,
+    "name": "El-Kabıd",
+    "arabic": "الْقَابِضُ",
+    "meaning": "Sıkan, daraltan",
+    "benefit": "Zalimlerin şerrinden korunmaya vesile olur.",
+    "recommendedCount": 903
+  },
+  {
+    "id": 22,
+    "name": "El-Basıt",
+    "arabic": "الْبَاسِطُ",
+    "meaning": "Açan, genişleten",
+    "benefit": "Rızkın genişlemesine vesile olur.",
+    "recommendedCount": 72
+  },
+  {
+    "id": 23,
+    "name": "El-Hafıd",
+    "arabic": "الْخَافِضُ",
+    "meaning": "Alçaltan",
+    "benefit": "Kötü insanların şerrinden korunma.",
+    "recommendedCount": 500
+  },
+  {
+    "id": 24,
+    "name": "Er-Rafi",
+    "arabic": "الرَّافِعُ",
+    "meaning": "Yükselten",
+    "benefit": "Makam ve mevki yükselmesine vesile olur.",
+    "recommendedCount": 351
+  },
+  {
+    "id": 25,
+    "name": "El-Muiz",
+    "arabic": "الْمُعِزُّ",
+    "meaning": "İzzet veren",
+    "benefit": "Saygınlık ve şeref kazandırır.",
+    "recommendedCount": 117
+  },
+  {
+    "id": 26,
+    "name": "El-Müzil",
+    "arabic": "الْمُذِلُّ",
+    "meaning": "Zillete düşüren",
+    "benefit": "Zalimlerin zillete düşmesine vesile olur.",
+    "recommendedCount": 770
+  },
+  {
+    "id": 27,
+    "name": "Es-Semi",
+    "arabic": "السَّمِيعُ",
+    "meaning": "Her şeyi işiten",
+    "benefit": "Duaların kabul olmasına vesile olur.",
+    "recommendedCount": 180
+  },
+  {
+    "id": 28,
+    "name": "El-Basir",
+    "arabic": "الْبَصِيرُ",
+    "meaning": "Her şeyi gören",
+    "benefit": "Basiret ve feraset kazandırır.",
+    "recommendedCount": 302
+  },
+  {
+    "id": 29,
+    "name": "El-Hakem",
+    "arabic": "الْحَكَمُ",
+    "meaning": "Hükmeden",
+    "benefit": "Adaletli kararlar almaya vesile olur.",
+    "recommendedCount": 68
+  },
+  {
+    "id": 30,
+    "name": "El-Adl",
+    "arabic": "الْعَدْلُ",
+    "meaning": "Adaletli",
+    "benefit": "Hakkın yerini bulmasına vesile olur.",
+    "recommendedCount": 104
+  },
+  {
+    "id": 31,
+    "name": "El-Latif",
+    "arabic": "اللَّطِيفُ",
+    "meaning": "Lütuf sahibi",
+    "benefit": "Sıkıntıların giderilmesine vesile olur.",
+    "recommendedCount": 129
+  },
+  {
+    "id": 32,
+    "name": "El-Habir",
+    "arabic": "الْخَبِيرُ",
+    "meaning": "Her şeyden haberdar",
+    "benefit": "Gizli bilgilere ulaşmaya vesile olur.",
+    "recommendedCount": 812
+  },
+  {
+    "id": 33,
+    "name": "El-Halim",
+    "arabic": "الْحَلِيمُ",
+    "meaning": "Yumuşak davranan",
+    "benefit": "Sabır ve hilm kazandırır.",
+    "recommendedCount": 88
+  },
+  {
+    "id": 34,
+    "name": "El-Azim",
+    "arabic": "الْعَظِيمُ",
+    "meaning": "Büyüklükte sonsuz",
+    "benefit": "Saygınlık ve heybet kazandırır.",
+    "recommendedCount": 1020
+  },
+  {
+    "id": 35,
+    "name": "El-Gafur",
+    "arabic": "الْغَفُورُ",
+    "meaning": "Bağışlaması bol",
+    "benefit": "Günahların affına vesile olur.",
+    "recommendedCount": 1286
+  },
+  {
+    "id": 36,
+    "name": "Eş-Şekür",
+    "arabic": "الشَّكُورُ",
+    "meaning": "Şükredene bol veren",
+    "benefit": "Nimetlerin artmasına vesile olur.",
+    "recommendedCount": 526
+  },
+  {
+    "id": 37,
+    "name": "El-Aliyy",
+    "arabic": "الْعَلِيُّ",
+    "meaning": "Yüce",
+    "benefit": "Yüksek mertebelere ulaşmaya vesile olur.",
+    "recommendedCount": 110
+  },
+  {
+    "id": 38,
+    "name": "El-Kebir",
+    "arabic": "الْكَبِيرُ",
+    "meaning": "Büyük",
+    "benefit": "Büyüklük ve vakar kazandırır.",
+    "recommendedCount": 232
+  },
+  {
+    "id": 39,
+    "name": "El-Hafiz",
+    "arabic": "الْحَفِيظُ",
+    "meaning": "Koruyucu",
+    "benefit": "Her türlü tehlikeden korunmaya vesile olur.",
+    "recommendedCount": 998
+  },
+  {
+    "id": 40,
+    "name": "El-Mukit",
+    "arabic": "الْمُقِيتُ",
+    "meaning": "Rızık veren",
+    "benefit": "Rızık ve gıda bolluğuna vesile olur.",
+    "recommendedCount": 550
+  },
+  {
+    "id": 41,
+    "name": "El-Hasib",
+    "arabic": "الْحَسِيبُ",
+    "meaning": "Hesap gören",
+    "benefit": "Düşmanların şerrinden korunma.",
+    "recommendedCount": 80
+  },
+  {
+    "id": 42,
+    "name": "El-Celil",
+    "arabic": "الْجَلِيلُ",
+    "meaning": "Ululuk sahibi",
+    "benefit": "Heybet ve vakar kazandırır.",
+    "recommendedCount": 73
+  },
+  {
+    "id": 43,
+    "name": "El-Kerim",
+    "arabic": "الْكَرِيمُ",
+    "meaning": "Cömert",
+    "benefit": "Cömertlik ve ikram ahlakı kazandırır.",
+    "recommendedCount": 270
+  },
+  {
+    "id": 44,
+    "name": "Er-Rakib",
+    "arabic": "الرَّقِيبُ",
+    "meaning": "Gözeten",
+    "benefit": "Kötü alışkanlıklardan korunma.",
+    "recommendedCount": 312
+  },
+  {
+    "id": 45,
+    "name": "El-Mucib",
+    "arabic": "الْمُجِيبُ",
+    "meaning": "Duaları kabul eden",
+    "benefit": "Duaların kabulüne vesile olur.",
+    "recommendedCount": 55
+  },
+  {
+    "id": 46,
+    "name": "El-Vasi",
+    "arabic": "الْوَاسِعُ",
+    "meaning": "Geniş, kuşatan",
+    "benefit": "Rızık ve rahmetin genişlemesine vesile olur.",
+    "recommendedCount": 137
+  },
+  {
+    "id": 47,
+    "name": "El-Hakim",
+    "arabic": "الْحَكِيمُ",
+    "meaning": "Hikmet sahibi",
+    "benefit": "Doğru kararlar almaya vesile olur.",
+    "recommendedCount": 78
+  },
+  {
+    "id": 48,
+    "name": "El-Vedud",
+    "arabic": "الْوَدُودُ",
+    "meaning": "Çok seven",
+    "benefit": "Sevgi ve muhabbet kazandırır.",
+    "recommendedCount": 20
+  },
+  {
+    "id": 49,
+    "name": "El-Mecid",
+    "arabic": "الْمَجِيدُ",
+    "meaning": "Şan ve şeref sahibi",
+    "benefit": "Şeref ve itibar kazandırır.",
+    "recommendedCount": 57
+  },
+  {
+    "id": 50,
+    "name": "El-Bais",
+    "arabic": "الْبَاعِثُ",
+    "meaning": "Dirilten",
+    "benefit": "Manevi uyanış ve canlanma.",
+    "recommendedCount": 573
+  },
+  {
+    "id": 51,
+    "name": "Eş-Şehid",
+    "arabic": "الشَّهِيدُ",
+    "meaning": "Her şeye şahit",
+    "benefit": "Yalancılara karşı hakkın ortaya çıkması.",
+    "recommendedCount": 319
+  },
+  {
+    "id": 52,
+    "name": "El-Hakk",
+    "arabic": "الْحَقُّ",
+    "meaning": "Gerçek, hak",
+    "benefit": "Hakkın ortaya çıkmasına vesile olur.",
+    "recommendedCount": 108
+  },
+  {
+    "id": 53,
+    "name": "El-Vekil",
+    "arabic": "الْوَكِيلُ",
+    "meaning": "Güvenilen vekil",
+    "benefit": "İşlerin yolunda gitmesine vesile olur.",
+    "recommendedCount": 66
+  },
+  {
+    "id": 54,
+    "name": "El-Kaviyy",
+    "arabic": "الْقَوِيُّ",
+    "meaning": "Güçlü",
+    "benefit": "Güç ve kuvvet kazandırır.",
+    "recommendedCount": 116
+  },
+  {
+    "id": 55,
+    "name": "El-Metin",
+    "arabic": "الْمَتِينُ",
+    "meaning": "Sağlam",
+    "benefit": "Sabır ve dayanıklılık kazandırır.",
+    "recommendedCount": 500
+  },
+  {
+    "id": 56,
+    "name": "El-Veliyy",
+    "arabic": "الْوَلِيُّ",
+    "meaning": "Dost, yardımcı",
+    "benefit": "Allah'ın dostluğunu kazanmaya vesile olur.",
+    "recommendedCount": 46
+  },
+  {
+    "id": 57,
+    "name": "El-Hamid",
+    "arabic": "الْحَمِيدُ",
+    "meaning": "Övülmeye layık",
+    "benefit": "Güzel ahlak kazandırır.",
+    "recommendedCount": 62
+  },
+  {
+    "id": 58,
+    "name": "El-Muhsi",
+    "arabic": "الْمُحْصِي",
+    "meaning": "Her şeyi sayan",
+    "benefit": "Hesap ve düzen kazandırır.",
+    "recommendedCount": 148
+  },
+  {
+    "id": 59,
+    "name": "El-Mübdi",
+    "arabic": "الْمُبْدِئُ",
+    "meaning": "İlk yaratan",
+    "benefit": "Yeni başlangıçlara vesile olur.",
+    "recommendedCount": 57
+  },
+  {
+    "id": 60,
+    "name": "El-Muid",
+    "arabic": "الْمُعِيدُ",
+    "meaning": "Tekrar yaratan",
+    "benefit": "Kaybedilen şeylerin geri gelmesine vesile olur.",
+    "recommendedCount": 124
+  },
+  {
+    "id": 61,
+    "name": "El-Muhyi",
+    "arabic": "الْمُحْيِي",
+    "meaning": "Hayat veren",
+    "benefit": "Şifa ve sağlığa vesile olur.",
+    "recommendedCount": 68
+  },
+  {
+    "id": 62,
+    "name": "El-Mümit",
+    "arabic": "الْمُمِيتُ",
+    "meaning": "Öldüren",
+    "benefit": "Nefsin kötülüklerini öldürmeye vesile olur.",
+    "recommendedCount": 490
+  },
+  {
+    "id": 63,
+    "name": "El-Hayy",
+    "arabic": "الْحَيُّ",
+    "meaning": "Diri, canlı",
+    "benefit": "Sağlık ve uzun ömre vesile olur.",
+    "recommendedCount": 18
+  },
+  {
+    "id": 64,
+    "name": "El-Kayyum",
+    "arabic": "الْقَيُّومُ",
+    "meaning": "Kendi kendine var olan",
+    "benefit": "İşlerin düzene girmesine vesile olur.",
+    "recommendedCount": 156
+  },
+  {
+    "id": 65,
+    "name": "El-Vacid",
+    "arabic": "الْوَاجِدُ",
+    "meaning": "Bulan, zengin",
+    "benefit": "Kaybedilen şeyleri bulmaya vesile olur.",
+    "recommendedCount": 14
+  },
+  {
+    "id": 66,
+    "name": "El-Macid",
+    "arabic": "الْمَاجِدُ",
+    "meaning": "Şanlı",
+    "benefit": "Şeref ve saygınlık kazandırır.",
+    "recommendedCount": 48
+  },
+  {
+    "id": 67,
+    "name": "El-Vahid",
+    "arabic": "الْوَاحِدُ",
+    "meaning": "Bir, tek",
+    "benefit": "Kalp birliği ve ihlasa vesile olur.",
+    "recommendedCount": 19
+  },
+  {
+    "id": 68,
+    "name": "Es-Samed",
+    "arabic": "الصَّمَدُ",
+    "meaning": "Hiçbir şeye muhtaç olmayan",
+    "benefit": "İhtiyaçların giderilmesine vesile olur.",
+    "recommendedCount": 134
+  },
+  {
+    "id": 69,
+    "name": "El-Kadir",
+    "arabic": "الْقَادِرُ",
+    "meaning": "Güç yetiren",
+    "benefit": "Zor işlerin kolaylaşmasına vesile olur.",
+    "recommendedCount": 305
+  },
+  {
+    "id": 70,
+    "name": "El-Muktedir",
+    "arabic": "الْمُقْتَدِرُ",
+    "meaning": "Her şeye gücü yeten",
+    "benefit": "Güç ve kudret kazandırır.",
+    "recommendedCount": 744
+  },
+  {
+    "id": 71,
+    "name": "El-Mukaddim",
+    "arabic": "الْمُقَدِّمُ",
+    "meaning": "Öne geçiren",
+    "benefit": "İşlerin ilerlemesine vesile olur.",
+    "recommendedCount": 184
+  },
+  {
+    "id": 72,
+    "name": "El-Muahhir",
+    "arabic": "الْمُؤَخِّرُ",
+    "meaning": "Erteleyen",
+    "benefit": "Belaların ertelenmesine vesile olur.",
+    "recommendedCount": 846
+  },
+  {
+    "id": 73,
+    "name": "El-Evvel",
+    "arabic": "الْأَوَّلُ",
+    "meaning": "İlk",
+    "benefit": "Her işte önde olmaya vesile olur.",
+    "recommendedCount": 37
+  },
+  {
+    "id": 74,
+    "name": "El-Ahir",
+    "arabic": "الْآخِرُ",
+    "meaning": "Son",
+    "benefit": "İşlerin hayırlı sonuçlanmasına vesile olur.",
+    "recommendedCount": 801
+  },
+  {
+    "id": 75,
+    "name": "Ez-Zahir",
+    "arabic": "الظَّاهِرُ",
+    "meaning": "Açık, görünen",
+    "benefit": "Gizli şeylerin ortaya çıkmasına vesile olur.",
+    "recommendedCount": 1106
+  },
+  {
+    "id": 76,
+    "name": "El-Batın",
+    "arabic": "الْبَاطِنُ",
+    "meaning": "Gizli",
+    "benefit": "İç dünyayı aydınlatmaya vesile olur.",
+    "recommendedCount": 62
+  },
+  {
+    "id": 77,
+    "name": "El-Vali",
+    "arabic": "الْوَالِي",
+    "meaning": "İdare eden",
+    "benefit": "İdare ve yönetim kabiliyeti kazandırır.",
+    "recommendedCount": 47
+  },
+  {
+    "id": 78,
+    "name": "El-Müteali",
+    "arabic": "الْمُتَعَالِي",
+    "meaning": "Aşkın, yüce",
+    "benefit": "Yüksek mertebelere ulaşmaya vesile olur.",
+    "recommendedCount": 551
+  },
+  {
+    "id": 79,
+    "name": "El-Berr",
+    "arabic": "الْبَرُّ",
+    "meaning": "İyilik eden",
+    "benefit": "Hayır ve iyilik kapıları açılır.",
+    "recommendedCount": 202
+  },
+  {
+    "id": 80,
+    "name": "Et-Tevvab",
+    "arabic": "التَّوَّابُ",
+    "meaning": "Tövbeleri kabul eden",
+    "benefit": "Tövbenin kabulüne vesile olur.",
+    "recommendedCount": 409
+  },
+  {
+    "id": 81,
+    "name": "El-Müntekim",
+    "arabic": "الْمُنْتَقِمُ",
+    "meaning": "İntikam alan",
+    "benefit": "Zalimlerin cezalandırılmasına vesile olur.",
+    "recommendedCount": 630
+  },
+  {
+    "id": 82,
+    "name": "El-Afüvv",
+    "arabic": "الْعَفُوُّ",
+    "meaning": "Affeden",
+    "benefit": "Günahların silinmesine vesile olur.",
+    "recommendedCount": 156
+  },
+  {
+    "id": 83,
+    "name": "Er-Rauf",
+    "arabic": "الرَّؤُوفُ",
+    "meaning": "Şefkatli",
+    "benefit": "Şefkat ve merhamet kazandırır.",
+    "recommendedCount": 286
+  },
+  {
+    "id": 84,
+    "name": "Malik-ül Mülk",
+    "arabic": "مَالِكُ الْمُلْكِ",
+    "meaning": "Mülkün ebedi sahibi",
+    "benefit": "Mal ve mülk bereketine vesile olur.",
+    "recommendedCount": 212
+  },
+  {
+    "id": 85,
+    "name": "Zül-Celali vel-İkram",
+    "arabic": "ذُو الْجَلَالِ وَالْإِكْرَامِ",
+    "meaning": "Celal ve ikram sahibi",
+    "benefit": "Şeref ve ikram kapıları açılır.",
+    "recommendedCount": 1100
+  },
+  {
+    "id": 86,
+    "name": "El-Muksit",
+    "arabic": "الْمُقْسِطُ",
+    "meaning": "Adaletli",
+    "benefit": "Adaletin sağlanmasına vesile olur.",
+    "recommendedCount": 209
+  },
+  {
+    "id": 87,
+    "name": "El-Cami",
+    "arabic": "الْجَامِعُ",
+    "meaning": "Toplayan",
+    "benefit": "Dağınık işlerin toparlanmasına vesile olur.",
+    "recommendedCount": 114
+  },
+  {
+    "id": 88,
+    "name": "El-Ganiyy",
+    "arabic": "الْغَنِيُّ",
+    "meaning": "Zengin",
+    "benefit": "Zenginlik ve tokgözlülük kazandırır.",
+    "recommendedCount": 1060
+  },
+  {
+    "id": 89,
+    "name": "El-Muğni",
+    "arabic": "الْمُغْنِي",
+    "meaning": "Zengin kılan",
+    "benefit": "Fakirlikten kurtulmaya vesile olur.",
+    "recommendedCount": 1100
+  },
+  {
+    "id": 90,
+    "name": "El-Mani",
+    "arabic": "الْمَانِعُ",
+    "meaning": "Engelleyen",
+    "benefit": "Kötülüklerin engellenmesine vesile olur.",
+    "recommendedCount": 161
+  },
+  {
+    "id": 91,
+    "name": "Ed-Darr",
+    "arabic": "الضَّارُّ",
+    "meaning": "Zarar verici",
+    "benefit": "Zararlı şeylerden uzak durmaya vesile olur.",
+    "recommendedCount": 1001
+  },
+  {
+    "id": 92,
+    "name": "En-Nafi",
+    "arabic": "النَّافِعُ",
+    "meaning": "Fayda veren",
+    "benefit": "Hayırlı işlere muvaffak olmaya vesile olur.",
+    "recommendedCount": 201
+  },
+  {
+    "id": 93,
+    "name": "En-Nur",
+    "arabic": "النُّورُ",
+    "meaning": "Nur, ışık",
+    "benefit": "Kalp nurlanır, hidayete vesile olur.",
+    "recommendedCount": 256
+  },
+  {
+    "id": 94,
+    "name": "El-Hadi",
+    "arabic": "الْهَادِي",
+    "meaning": "Hidayet veren",
+    "benefit": "Doğru yola ulaşmaya vesile olur.",
+    "recommendedCount": 20
+  },
+  {
+    "id": 95,
+    "name": "El-Bedi",
+    "arabic": "الْبَدِيعُ",
+    "meaning": "Eşsiz yaratan",
+    "benefit": "Yaratıcılık ve güzellik kazandırır.",
+    "recommendedCount": 86
+  },
+  {
+    "id": 96,
+    "name": "El-Baki",
+    "arabic": "الْبَاقِي",
+    "meaning": "Ebedi",
+    "benefit": "Ömür bereketine vesile olur.",
+    "recommendedCount": 113
+  },
+  {
+    "id": 97,
+    "name": "El-Varis",
+    "arabic": "الْوَارِثُ",
+    "meaning": "Her şeyin varisi",
+    "benefit": "Miras ve mal bereketine vesile olur.",
+    "recommendedCount": 707
+  },
+  {
+    "id": 98,
+    "name": "Er-Reşid",
+    "arabic": "الرَّشِيدُ",
+    "meaning": "Doğruya yönelten",
+    "benefit": "İşlerin doğruya yönelmesine vesile olur.",
+    "recommendedCount": 514
+  },
+  {
+    "id": 99,
+    "name": "Es-Sabur",
+    "arabic": "الصَّبُورُ",
+    "meaning": "Çok sabırlı",
+    "benefit": "Sabır ve metanet kazandırır.",
+    "recommendedCount": 298
+  }
+]
